@@ -52,4 +52,4 @@ def simplify_b(a):
         return k
 
 
-#print(simplify_b(a))
+print(simplify_b(a))
