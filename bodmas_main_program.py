@@ -11,7 +11,8 @@ Created on Tue Aug 13 23:36:24 2019
 #a= "-(-10+5a)(-2)"
 #a= "a-b(c+d)-(a-b)cd-a"
 #a= "(-1)(a+b)(a-b)(a+b)(a-b)(-1)"
-a= "-(a+b)(a-b)"
+#a= "-(a+b)(a-b)"
+a= "(a-b)(a-b)(a-b)"
 
 def simplify_b(a):
     b=""
